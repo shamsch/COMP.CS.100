@@ -3,7 +3,7 @@ Hey, this repository contains some of my **spaghetti** code from this introducto
 
 Course page: https://plus.tuni.fi/comp.cs.100/fall-2020/
 My grade: 
-![my grade](`r https://imgur.com/a/HaWIYVc`)
+![my grade](https://i.imgur.com/fDwfEBw.png)
 
 -Shamsur 
 Tampere, Finland
